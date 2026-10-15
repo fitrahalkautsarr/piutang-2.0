@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Informasi Monitoring Piutang - PT Biringkassi Raya",
+  "description": "Sistem Informasi Monitoring Piutang dan Rekonsiliasi Pelaporan Keuangan PT Biringkassi Raya (Semen Tonasa Group)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
